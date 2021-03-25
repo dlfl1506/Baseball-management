@@ -7,7 +7,7 @@
 - Spring Data JPA
 - MySQL Driver
 - Spring Web
-
+- QLRM
 
 ```xml
 <!-- JSP 템플릿 엔진 -->
@@ -67,3 +67,22 @@ spring:
 ```
  <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 ```
+
+
+### ✔ 기능
+
+<img src="https://user-images.githubusercontent.com/74044212/112508840-40d13380-8dd3-11eb-9629-bbfca45ad0ae.png"  width="100%" /><br/>
+
+#### 1.야구장등록
+#### 2.팀등록
+#### 3.선수등록
+#### 4.야구장리스트보여주기
+#### 5.팀리스트보여주기
+#### 6.선수리스트보여주기
+
+<br/>
+### 포지션별 선수명단뿌리기
+<img src="https://user-images.githubusercontent.com/74044212/112509101-7f66ee00-8dd3-11eb-9b12-060f41a5f693.png"  width="100%" /><br/>
+
+
+
