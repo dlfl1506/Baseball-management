@@ -86,4 +86,6 @@ spring:
 <img src="https://user-images.githubusercontent.com/74044212/112509101-7f66ee00-8dd3-11eb-9b12-060f41a5f693.png"  width="100%" /><br/>
 
 
+### 서버 실행화면
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/74044212/112511566-e08fc100-8dd5-11eb-9864-193584490ee3.gif)
 
