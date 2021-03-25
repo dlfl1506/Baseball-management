@@ -79,13 +79,13 @@ spring:
 #### 4.야구장리스트보여주기
 #### 5.팀리스트보여주기
 #### 6.선수리스트보여주기
-
-
+#### 7.리스트삭제하기
 
 ### 포지션별 선수명단뿌리기
 <img src="https://user-images.githubusercontent.com/74044212/112509101-7f66ee00-8dd3-11eb-9b12-060f41a5f693.png"  width="100%" /><br/>
 
 
 ### 서버 실행화면
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/74044212/112511566-e08fc100-8dd5-11eb-9864-193584490ee3.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/74044212/112513539-c6ef7900-8dd7-11eb-85fb-a5c25f967196.gif)
+
 
